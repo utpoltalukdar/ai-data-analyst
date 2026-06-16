@@ -46,3 +46,15 @@ Utpal Talukdar
 
 GitHub:
 https://github.com/utpoltalukdar
+
+
+## Project Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Chart Analysis
+![Chart](screenshots/chart.png)
+
+### Correlation Matrix
+![Correlation](screenshots/correlation.png)
